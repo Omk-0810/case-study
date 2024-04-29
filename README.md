@@ -14,7 +14,7 @@ To Setup this project run
 
 clone the repository.
 ```bash
-  git clone https://github.com/ishandeveloper/Chatter-App.git
+  git clone https://github.com/Omk-0810/case-study
 ```
 Move to the desired folder.
 ```bash
