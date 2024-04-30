@@ -1,7 +1,7 @@
 
 #Case study app for Bynry
 
-This case study is based on flutter. I have use the firebase as the backend. The app includes the functionality of registration module which consist of signup,siginand forget password.
+This case study is based on flutter. I have use the firebase as the backend. The app includes the functionality of registration module which consist of signup,siginand forget password also i have added the feature that will keep login if u once logged in in app and if you want to log out you have to go to profile and click on the logout.
 
 The new feature added in the app is "chat bot" to which you can ask questions about using the app,also you can ask safety tips ,and how to save resources.To use the chatbot click on the floating button in the dashboard and for the chatbot I have only added the basic questions we can also add as many questions and answers as we want.
 
@@ -39,6 +39,16 @@ To run the app, simply write.
 4.[get ](https://pub.dev/packages/get)
 
 5.[dialog_flowtter ](https://pub.dev/packages/dialog_flowtter)
+
+## Add multidex support
+
+ 1.[multidex ](https://developer.android.com/build/multidex#groovy)
+
+ 
+## Download apk
+https://github.com/Omk-0810/case-study/blob/master/case_study.apk
+
+
 
 
  
